@@ -1,0 +1,20 @@
+{
+  "name": "techtutor-live-session",
+  "version": "1.0.0",
+  "description": "Integration with video streaming and conferencing APIs for live sessions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "coding",
+    "education",
+    "technology"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "video-streaming-api": "^1.0.0",
+    "websocket": "^1.0.34"
+  }
+}

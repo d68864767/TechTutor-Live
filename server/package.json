@@ -1,0 +1,23 @@
+{
+  "name": "techtutor-live-server",
+  "version": "1.0.0",
+  "description": "Backend API for the TechTutor Live platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "coding",
+    "education",
+    "technology"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "websocket": "^1.0.34",
+    "video-streaming-api": "^1.0.0",
+    "authentication-library": "^2.0.0",
+    "database-library": "^1.0.0"
+  }
+}
